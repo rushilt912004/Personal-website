@@ -1,11 +1,7 @@
 body {
     background-color : #000;
-    
+    font-family: Courier, monospace;
     color: aliceblue;
-    font-family: "Jaro", sans-serif;
-    font-optical-sizing: auto;
-    font-weight: 400;
-    font-style: normal;
 }
 
 
